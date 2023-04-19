@@ -1,0 +1,16 @@
+.menu{
+    /* padding: 1em; */
+    overflow-y: auto;
+    height: 100%;
+    background-color: var(--c2);
+}
+
+.menu p{
+    padding: 10px ;
+    margin: 10px;
+}
+
+.menu p:hover{
+    background-color: var(--c3);
+    cursor: pointer;
+}

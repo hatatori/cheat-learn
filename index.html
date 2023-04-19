@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="./scripts/script.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    
+    <title>Document</title>
+</head>
+<body>
+    
+    <main id="content" class="main-actived">
+
+        <aside class="menu" id="menu">
+            <!-- <p>eita</p> -->
+        </aside>    
+    
+        <aside class="main-chat">
+            <section class="profile" onclick="toggle_menu()">
+                <span class="material-symbols-outlined">menu</span>
+                <!-- <img height="100px" class="icon-page" src="./imgs/life.png"> -->
+                <div>
+                    <h4>Direito processual penal</h4>
+                </div>
+            </section>
+    
+            <section class="chat" id="chat_box">
+                <!-- <div class="block received">1</div>
+                <div class="block sent">2</div>
+                <hr>
+                <div class="block received">Em geral, as perícias têm um papel fundamental na justiça, uma vez que fornecem informações técnicas e científicas que auxiliam juízes e advogados na tomada de decisões e na elaboração de pareceres. Essas informações são valiosas, pois permitem uma análise mais precisa e objetiva dos fatos, contribuindo para a resolução de conflitos e a garantia dos direitos individuais.</div>
+                <div class="block received">alguma coisa</div>
+                <div class="block sent">alguma coisa</div>
+                <div class="block received">alguma coisa</div>
+                <div class="block sent">3</div> -->
+            </section>
+    
+            <section class="writing-field">
+                <input id="inp_send" placeholder="escreva alguma coisa" type="text">
+                <button onclick="message_send()" class="btn btn-right">
+                    <span class="material-symbols-outlined">send</span>
+                </button> 
+            </section>
+        </aside>
+    </main>
+
+</body>
+</html>

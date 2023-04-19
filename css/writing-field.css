@@ -1,0 +1,40 @@
+.writing-field{
+    /* padding: 1em; */
+    /* margin: 10px; */
+    display: flex;
+    gap: 5px;
+    background-color: var(--c2);
+    border-radius: 3px;
+    border-radius: 1em;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    margin: 5px;
+}
+
+.writing-field input{
+    background-color: transparent;
+    flex: 1;
+    padding: 0 30px;
+    outline: none;
+    border: none;
+    transition: 0.5s;
+}
+
+.writing-field input:focus{
+    background-color: var(--c3);
+    transition: 0.5s;
+}
+
+.writing-field button{
+    padding: 10px;
+    background-color: transparent;
+    color: var(--pink);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.writing-field button:hover{
+    background-color: var(--c3);
+    /* border-radius: 5px; */
+}

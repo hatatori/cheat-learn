@@ -1,0 +1,47 @@
+O que é inquerito?
+
+vamos
+##
+Procedimento administrativo da ação penal para a colheita de materialidade e autoria
+
+testar
+
+
+O que busca a justa causa do inquérito policial? 
+##
+Materialidade e autoria
+
+
+Quem é o titular da ação pública condicionada? 
+##
+Ofendido
+
+
+Quem é o titular da ação pública incondicionada? 
+##
+MP
+
+
+Nomes das peças técnicas da ação penal. 
+##
+Queixa e denúncia
+
+
+Nome peça técnica da ação penal privada condicionada. 
+##
+Queixa
+
+
+Nome peça técnica da ação penal pública incondicionada. 
+##
+Denúncia
+
+
+Motivos que levam a ação pública incondicionada 
+##
+requerimento, prisão em flagrante, requisição do MP
+
+
+Motivos que levam a ação pública condicionada 
+##
+representação do ofendido, requisição do ministro da justiça

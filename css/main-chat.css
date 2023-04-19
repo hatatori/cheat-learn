@@ -1,0 +1,13 @@
+.main-chat{
+    width: 100%;
+    height: 100%;
+    /* max-width: 90%; */
+    /* max-width: 100%; */
+    display: flex;
+    flex-direction: column;
+    /* margin: auto; */
+    display: grid;
+    /* gap: 5px; */
+    /* grid-template-rows: 1fr 20fr 1fr; */
+    grid-template-rows: 1fr 20fr 70px;
+}
